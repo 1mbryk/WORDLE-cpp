@@ -1,0 +1,4 @@
+Rules of Wordle.
+A word made up of 5 letters. 
+You need to guess it in 6 attempts. If the letter is painted yellow, then the letter is in the hidden word, but it is in the wrong position.
+If it is in that position, it turns green. If the letter is not colored in any way, it is not in the hidden word.
